@@ -1,0 +1,71 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Néchronos - Temple noir"] = "Néchronos - Temple noir",
+		["Postéros - Temple noir"] = "Postéros - Temple noir",
+		["Erosia - Temple noir"] = "Erosia - Temple noir",
+	},
+	["profiles"] = {
+		["Néchronos - Temple noir"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.0000305175781,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Postéros - Temple noir"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.0000305175781,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "Tourment, la tour des Damnés",
+			["CurDataSet"] = "OverallData",
+		},
+		["Erosia - Temple noir"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -44.19049072265625,
+					["x"] = 402.793701171875,
+					["w"] = 140.0004730224609,
+					["h"] = 200.0001220703125,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

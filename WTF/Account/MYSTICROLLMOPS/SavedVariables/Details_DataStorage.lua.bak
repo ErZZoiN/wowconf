@@ -1,0 +1,64 @@
+
+DetailsDataStorage = {
+	[15] = {
+	},
+	["VERSION"] = 4,
+	[14] = {
+		[2398] = {
+			{
+				["time"] = 1607547269,
+				["guild"] = "Test Guild",
+				["servertime"] = 1607547265,
+				["elapsed"] = 405.0400000000009,
+				["healing"] = {
+				},
+				["date"] = "21:54 09/12/20",
+				["damage"] = {
+				},
+			}, -- [1]
+		},
+		[2418] = {
+			{
+				["time"] = 1607554064,
+				["guild"] = "Test Guild",
+				["servertime"] = 1607554061,
+				["elapsed"] = 586.135000000002,
+				["healing"] = {
+				},
+				["date"] = "23:47 09/12/20",
+				["damage"] = {
+				},
+			}, -- [1]
+		},
+	},
+	[16] = {
+	},
+	["totalkills"] = {
+		[2398] = {
+			[14] = {
+				["time_incombat"] = 405.0400000000009,
+				["time_fasterkill"] = 405.0400000000009,
+				["wipes"] = 3,
+				["kills"] = 1,
+				["dps_best"] = 2063.275248760612,
+				["dps_best_raid"] = 15981.97708868256,
+				["time_fasterkill_when"] = 1607547269,
+				["dps_best_raid_when"] = 1607547269,
+				["dps_best_when"] = 1607547269,
+			},
+		},
+		[2418] = {
+			[14] = {
+				["time_incombat"] = 586.135000000002,
+				["time_fasterkill"] = 586.135000000002,
+				["wipes"] = 8,
+				["kills"] = 1,
+				["dps_best"] = 5683.520013083997,
+				["dps_best_raid"] = 40024.25209209468,
+				["time_fasterkill_when"] = 1607554064,
+				["dps_best_raid_when"] = 1607554064,
+				["dps_best_when"] = 1607554064,
+			},
+		},
+	},
+}

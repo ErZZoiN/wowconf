@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r481 | nevcairiel | 2020-11-28 09:06:39 +0000 (Sat, 28 Nov 2020) | 1 line
+Changed paths:
+   M /trunk/HerbalismData.lua
+   M /trunk/MiningData.lua
+
+Update Shadowlands Data
+------------------------------------------------------------------------
+

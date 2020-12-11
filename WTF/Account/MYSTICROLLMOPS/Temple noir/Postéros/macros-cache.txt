@@ -1,0 +1,40 @@
+VER 3 0100000000000004 "croissance" "INV_MISC_QUESTIONMARK"
+#showtooltip Croissance sauvage
+/cast [@mouseover, help, nodead] Croissance sauvage; Croissance sauvage
+END
+VER 3 0100000000000009 "dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip Soins naturels
+/cast [@mouseover, help, nodead] Soins naturels; Soins naturels
+END
+VER 3 0100000000000006 "ecorce" "INV_MISC_QUESTIONMARK"
+#showtooltip Ecorcefer
+/cast [@mouseover, help, nodead] Ecorcefer; Ecorcefer
+END
+VER 3 0100000000000002 "efflo" "INV_MISC_QUESTIONMARK"
+#showtooltip Efflorescence
+/cast [@mouseover, help, nodead] Efflorescence; Efflorescence
+END
+VER 3 0100000000000001 "Flfl" "INV_MISC_QUESTIONMARK"
+#showtooltip Fleur de vie
+/cast [@mouseover, help, nodead] Fleur de vie; Fleur de vie
+END
+VER 3 0100000000000008 "innerv" "INV_MISC_QUESTIONMARK"
+#showtooltip Innervation
+/cast [@mouseover, help, nodead] Innervation; Innervation
+END
+VER 3 0100000000000007 "prompt" "INV_MISC_QUESTIONMARK"
+#showtooltip Prompte guérison
+/cast [@mouseover, help, nodead] Prompte guérison; Prompte guérison
+END
+VER 3 0100000000000005 "recup" "INV_MISC_QUESTIONMARK"
+#showtooltip Récupération
+/cast [@mouseover, help, nodead] Récupération; Récupération
+END
+VER 3 0100000000000003 "reta" "INV_MISC_QUESTIONMARK"
+#showtooltip Rétablissement
+/cast [@mouseover, help, nodead] Rétablissement; Rétablissement
+END
+VER 3 010000000000000A "rez" "INV_MISC_QUESTIONMARK"
+#showtooltip Renaissance
+/cast [@mouseover, help] Renaissance; Renaissance
+END

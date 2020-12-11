@@ -1,0 +1,10 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Postéros-temple-noir"
+RaiderIO_MissingCharacters = {
+	["eu-Miselium-illidan"] = true,
+	["eu-Drènegur-illidan"] = true,
+	["eu-Chandris-arathi"] = true,
+}
+RaiderIO_CachedRuns = nil

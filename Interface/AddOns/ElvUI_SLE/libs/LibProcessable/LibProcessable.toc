@@ -1,0 +1,18 @@
+#@non-retail@
+# ## Interface: 11305
+#@end-non-retail@
+#@retail@
+## Interface: 90001
+#@end-retail@
+## Author: p3lim
+## Version: v4.17
+## Title: Lib: Processable
+## Notes: Library that lets you easily check if you can process resources
+## OptionalDeps: LibStub
+
+## X-Curse-Project-ID: 88553
+## X-WoWI-ID: 23440
+
+LibStub\LibStub.lua
+
+embed.xml

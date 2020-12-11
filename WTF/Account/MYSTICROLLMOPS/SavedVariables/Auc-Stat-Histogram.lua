@@ -1,0 +1,2 @@
+
+AucAdvancedStatHistogramData = nil

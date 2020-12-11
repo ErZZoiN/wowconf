@@ -1,0 +1,168 @@
+VER 3 000000000000001B "consternant" "Ability_Druid_Enrage"
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+/consternant
+END
+VER 3 0000000000000024 "Decursive" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [target=mouseover,nomod,exists] Maléfice;  [target=mouseover,exists,mod:ctrl] Purge; [target=mouseover,exists,mod:shift] Purifier l'esprit
+END
+VER 3 0000000000000020 "Fume" "Ability_Hunter_AimedShot"
+Fumer Tue !
+Roken is Dodelijk !
+END
+VER 3 0000000000000143 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Groupe:
+END
+VER 3 0000000000000142 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Anté:p:ayer-1624-07E34186:1:
+END
+VER 3 0000000000000017 "kiss" "Ability_Creature_Disease_05"
+/kiss
+END
+VER 3 0000000000000137 "kk" "INV_MISC_QUESTIONMARK"
+/tar Drake
+/cast Eclair
+END
+VER 3 0000000000000026 "kneel" "SPELL_HOLY_HOLYPROTECTION"
+/kneel
+END
+VER 3 000000000000001C "mdr" "Ability_Druid_FerociousBite"
+/mdr
+/mdr
+/mdr
+/mdr
+/mdr
+/mdr
+/mdr
+/Mdr
+/mdr
+/mdr
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+/MDR
+END
+VER 3 0000000000000013 "proto" "Ability_Ambush"
+/tar Dirkee
+/tar Vyra
+/tar Proto-drake perdu
+/stopmacro [noexists]
+/tell Antéros %t
+END
+VER 3 000000000000013D "proto" "INV_MISC_QUESTIONMARK"
+/way Les pics Foudroyés 31.5, 70.0 Frozen Lake
+/way Les pics Foudroyés 51.1, 71.2 Brunn Village
+/way Les pics Foudroyés 35.0, 76.5 Waterfall
+/way Les pics Foudroyés 52.3, 35.0 Ulduar Ravine
+END
+VER 3 0000000000000015 "way frostfire" "Ability_Hunter_EagleEye"
+/way Crête de Givrefeu 58.0 18.4 Gorok
+/way Crête de Givrefeu 51.8 50.6 Gorok
+/way Crête de Givrefeu 64.8 63.0 Gorok
+/way Crête de Givrefeu 22.8 66.4 Gorok
+/way Crête de Givrefeu 63.4 79.4 Gorok
+END
+VER 3 0000000000000139 "way gorgrond" "INV_MISC_QUESTIONMARK"
+/way Gorgrond 47 54 Poundfist
+/way Gorgrond 45 56 Poundfist
+/way Gorgrond 43 55 Poundfist
+/way Gorgrond 42 26 Poundfist
+/way Gorgrond 50 42 Poundfist
+END
+VER 3 000000000000013B "way nagrand" "INV_MISC_QUESTIONMARK"
+/way Nagrand:Draenor 84.8 63.8 Luk'hok
+/way Nagrand:Draenor 79.4 55.4 Luk'hok
+/way Nagrand:Draenor 73.0 53.6 Luk'hok
+/way Nagrand:Draenor 66.6 43.2 Luk'hok
+/way Nagrand:Draenor 76.2 30.4 Luk'hok
+END
+VER 3 000000000000013C "way nagrand2" "INV_MISC_QUESTIONMARK"
+/way Nagrand:Draenor 54.8 35.6 Nakk
+/way Nagrand:Draenor 50.4 34.0 Nakk
+/way Nagrand:Draenor 60.4 31.2 Nakk
+/way Nagrand:Draenor 64.8 20.6 Nakk
+/way Nagrand:Draenor 62.8 15.0 Nakk
+END
+VER 3 0000000000000138 "way shadowmoon" "INV_MISC_QUESTIONMARK"
+/way Vallée D'Ombrelune 45.8 68.2 Pathrunner
+/way Vallée D'Ombrelune:Draenor 56.2 52.4 Pathrunner
+/way Vallée D'Ombrelune:Draenor 44.6 43.8 Pathrunner
+/way Vallée D'Ombrelune:Draenor 39.6 36.6 Pathrunner
+END
+VER 3 000000000000013A "way talador" "INV_MISC_QUESTIONMARK"
+/way Talador 54.8 81.2 Silthide
+/way Talador 67.8 59.4 Silthide
+/way Talador 79.6 54.8 Silthide
+/way Talador 61.8 45.4 Silthide
+/way Talador 61.8 32.4 Silthide
+END
+VER 3 0000000000000144 "westfall oat" "451165"
+/way 48.7 20.2
+/way 56.9 19.7
+/way 58.1 19.7
+/way 60.4 19.4
+/way 50.5 25.0
+/way 55.2 27.5
+/way 56.3 30.1
+/way 51.5 32.3
+/way 52.3 33.4
+/way 52.5 35.0
+/way 54.2 36.2
+/way 51.0 39.1
+/way 47.2 37.4
+/way 46.5 37.9
+END

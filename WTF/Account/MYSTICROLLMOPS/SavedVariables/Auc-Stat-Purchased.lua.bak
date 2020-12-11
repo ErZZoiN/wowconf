@@ -1,0 +1,2 @@
+
+AucAdvancedStatPurchasedData = nil
